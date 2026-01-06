@@ -4,4 +4,4 @@ sitemap: false
 permalink: /
 ---
 
-11111
+My research direction is computer vision , LLM,MMKG
